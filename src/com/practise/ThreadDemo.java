@@ -1,4 +1,4 @@
-package com.leetcode;
+package com.practise;
 import java.lang.Runnable;
 //class MyRunnable implements Runnable
 //{
